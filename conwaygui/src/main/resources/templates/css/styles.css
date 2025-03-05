@@ -1,0 +1,55 @@
+:root {
+    --thistle: #cdb4dbff;
+    --fairy-tale: #ffc8ddff;
+    --carnation-pink: #ffafccff;
+    --uranian-blue: #bde0feff;
+    --light-sky-blue: #a2d2ffff;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: var(--uranian-blue);
+    color: var(--thistle);
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+#grid {
+    display: grid;
+    grid-template-columns: repeat(20, 20px);
+    grid-template-rows: repeat(20, 20px);
+    gap: 1px;
+    justify-content: center;
+    margin: 20px auto;
+    background-color: var(--fairy-tale);
+    padding: 5px;
+}
+
+.cell {
+    width: 20px;
+    height: 20px;
+    background-color: var(--light-sky-blue);
+    border-radius: 4px;
+}
+
+.cell.alive {
+    background-color: var(--carnation-pink);
+}
+
+.controls button {
+    margin: 5px;
+    padding: 10px 15px;
+    border: none;
+    background-color: var(--thistle);
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.controls button:hover {
+    background-color: var(--fairy-tale);
+}
