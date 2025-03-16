@@ -47,7 +47,7 @@ public class ConwayCallerWS {
     public void workWithGame( ) {
         try {
         	
-//        	sendMessageOnWs("clear");
+        	sendMessageOnWs("clear");
 //        	
 //        	CommUtils.delay(2000);
         	

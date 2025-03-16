@@ -1,0 +1,629 @@
+2025-03-11 11:28:10 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 21192 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-11 11:28:10 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-11 11:28:10 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-11 11:28:10 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-11 11:28:10 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-11 11:28:11 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-11 11:28:11 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-11 11:28:11 [restartedMain] - Starting service [Tomcat]
+2025-03-11 11:28:11 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-11 11:28:11 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-11 11:28:11 [restartedMain] - Root WebApplicationContext: initialization completed in 1688 ms
+2025-03-11 11:28:12 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-11 11:28:12 [restartedMain] - LiveReload server is running on port 35729
+2025-03-11 11:28:12 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-11 11:28:12 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-11 11:28:12 [restartedMain] - Started ConwayguiApplication in 3.174 seconds (process running for 3.88)
+2025-03-11 11:28:29 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-11 11:28:29 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-11 11:28:29 [http-nio-7110-exec-1] - Completed initialization in 1 ms
+2025-03-11 11:33:17 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 7728 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-11 11:33:17 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-11 11:33:17 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-11 11:33:17 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-11 11:33:17 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-11 11:33:18 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-11 11:33:18 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-11 11:33:18 [restartedMain] - Starting service [Tomcat]
+2025-03-11 11:33:18 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-11 11:33:18 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-11 11:33:18 [restartedMain] - Root WebApplicationContext: initialization completed in 1708 ms
+2025-03-11 11:33:19 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-11 11:33:19 [restartedMain] - LiveReload server is running on port 35729
+2025-03-11 11:33:19 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-11 11:33:19 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-11 11:33:19 [restartedMain] - Started ConwayguiApplication in 3.321 seconds (process running for 4.359)
+2025-03-11 11:33:19 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-11 11:33:19 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-11 11:33:19 [http-nio-7110-exec-1] - Completed initialization in 1 ms
+2025-03-11 11:36:24 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 7016 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-11 11:36:24 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-11 11:36:24 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-11 11:36:24 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-11 11:36:24 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-11 11:36:26 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-11 11:36:26 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-11 11:36:26 [restartedMain] - Starting service [Tomcat]
+2025-03-11 11:36:26 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-11 11:36:26 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-11 11:36:26 [restartedMain] - Root WebApplicationContext: initialization completed in 1901 ms
+2025-03-11 11:36:26 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-11 11:36:26 [restartedMain] - LiveReload server is running on port 35729
+2025-03-11 11:36:26 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-11 11:36:26 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-11 11:36:26 [restartedMain] - Started ConwayguiApplication in 3.29 seconds (process running for 4.402)
+2025-03-11 11:36:28 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-11 11:36:28 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-11 11:36:28 [http-nio-7110-exec-1] - Completed initialization in 1 ms
+2025-03-11 11:37:18 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 11020 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-11 11:37:18 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-11 11:37:18 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-11 11:37:18 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-11 11:37:18 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-11 11:37:20 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-11 11:37:20 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-11 11:37:20 [restartedMain] - Starting service [Tomcat]
+2025-03-11 11:37:20 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-11 11:37:20 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-11 11:37:20 [restartedMain] - Root WebApplicationContext: initialization completed in 1825 ms
+2025-03-11 11:37:20 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-11 11:37:21 [restartedMain] - LiveReload server is running on port 35729
+2025-03-11 11:37:21 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-11 11:37:21 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-11 11:37:21 [restartedMain] - Started ConwayguiApplication in 3.731 seconds (process running for 4.601)
+2025-03-11 11:37:21 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-11 11:37:21 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-11 11:37:21 [http-nio-7110-exec-1] - Completed initialization in 4 ms
+2025-03-11 11:40:02 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 20132 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-11 11:40:02 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-11 11:40:03 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-11 11:40:03 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-11 11:40:03 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-11 11:40:04 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-11 11:40:04 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-11 11:40:04 [restartedMain] - Starting service [Tomcat]
+2025-03-11 11:40:04 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-11 11:40:04 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-11 11:40:04 [restartedMain] - Root WebApplicationContext: initialization completed in 1549 ms
+2025-03-11 11:40:04 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-11 11:40:05 [restartedMain] - LiveReload server is running on port 35729
+2025-03-11 11:40:05 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-11 11:40:05 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-11 11:40:05 [restartedMain] - Started ConwayguiApplication in 3.02 seconds (process running for 3.844)
+2025-03-11 11:40:15 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-11 11:40:15 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-11 11:40:15 [http-nio-7110-exec-1] - Completed initialization in 1 ms
+2025-03-13 13:16:03 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 2336 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 13:16:03 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 13:16:03 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 13:16:03 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 13:16:03 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 13:16:05 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 13:16:05 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 13:16:05 [restartedMain] - Starting service [Tomcat]
+2025-03-13 13:16:05 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 13:16:05 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 13:16:05 [restartedMain] - Root WebApplicationContext: initialization completed in 1979 ms
+2025-03-13 13:16:06 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 13:16:06 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 13:16:06 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 13:16:06 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 13:16:06 [restartedMain] - Started ConwayguiApplication in 3.641 seconds (process running for 4.908)
+2025-03-13 13:16:30 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 13:16:30 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 13:16:30 [http-nio-7110-exec-1] - Completed initialization in 0 ms
+2025-03-13 13:20:24 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 10608 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 13:20:24 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 13:20:24 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 13:20:24 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 13:20:24 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 13:20:26 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 13:20:26 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 13:20:26 [restartedMain] - Starting service [Tomcat]
+2025-03-13 13:20:26 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 13:20:26 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 13:20:26 [restartedMain] - Root WebApplicationContext: initialization completed in 1637 ms
+2025-03-13 13:20:26 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 13:20:26 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 13:20:26 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 13:20:26 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 13:20:26 [restartedMain] - Started ConwayguiApplication in 2.991 seconds (process running for 3.78)
+2025-03-13 13:21:44 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 13:21:44 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 13:21:44 [http-nio-7110-exec-1] - Completed initialization in 0 ms
+2025-03-13 13:25:24 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 1348 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 13:25:24 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 13:25:24 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 13:25:24 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 13:25:24 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 13:25:26 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 13:25:26 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 13:25:26 [restartedMain] - Starting service [Tomcat]
+2025-03-13 13:25:26 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 13:25:26 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 13:25:26 [restartedMain] - Root WebApplicationContext: initialization completed in 1653 ms
+2025-03-13 13:25:26 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 13:25:27 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 13:25:27 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 13:25:27 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 13:25:27 [restartedMain] - Started ConwayguiApplication in 3.235 seconds (process running for 4.1)
+2025-03-13 13:25:27 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 13:25:27 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 13:25:27 [http-nio-7110-exec-1] - Completed initialization in 2 ms
+2025-03-13 13:32:19 [SpringApplicationShutdownHook] - Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-13 13:32:20 [tomcat-shutdown] - Graceful shutdown complete
+2025-03-13 13:33:26 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 2196 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 13:33:26 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 13:33:26 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 13:33:26 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 13:33:26 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 13:33:27 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 13:33:27 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 13:33:27 [restartedMain] - Starting service [Tomcat]
+2025-03-13 13:33:27 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 13:33:27 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 13:33:27 [restartedMain] - Root WebApplicationContext: initialization completed in 1346 ms
+2025-03-13 13:33:27 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 13:33:27 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 13:33:27 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 13:33:28 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 13:33:28 [restartedMain] - Started ConwayguiApplication in 2.517 seconds (process running for 3.295)
+2025-03-13 13:33:43 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 13:33:43 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 13:33:43 [http-nio-7110-exec-1] - Completed initialization in 1 ms
+2025-03-13 13:37:48 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 11288 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 13:37:48 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 13:37:48 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 13:37:48 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 13:37:48 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 13:37:50 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 13:37:50 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 13:37:50 [restartedMain] - Starting service [Tomcat]
+2025-03-13 13:37:50 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 13:37:50 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 13:37:50 [restartedMain] - Root WebApplicationContext: initialization completed in 1344 ms
+2025-03-13 13:37:50 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 13:37:50 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 13:37:50 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 13:37:50 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 13:37:50 [restartedMain] - Started ConwayguiApplication in 2.616 seconds (process running for 3.307)
+2025-03-13 13:39:39 [http-nio-7110-exec-2] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 13:39:39 [http-nio-7110-exec-2] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 13:39:39 [http-nio-7110-exec-2] - Completed initialization in 3 ms
+2025-03-13 13:47:43 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 6576 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 13:47:43 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 13:47:43 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 13:47:43 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 13:47:43 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 13:47:45 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 13:47:45 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 13:47:45 [restartedMain] - Starting service [Tomcat]
+2025-03-13 13:47:45 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 13:47:45 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 13:47:45 [restartedMain] - Root WebApplicationContext: initialization completed in 1348 ms
+2025-03-13 13:47:45 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 13:47:45 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 13:47:45 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 13:47:45 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 13:47:45 [restartedMain] - Started ConwayguiApplication in 2.624 seconds (process running for 3.483)
+2025-03-13 13:47:51 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 13:47:51 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 13:47:51 [http-nio-7110-exec-1] - Completed initialization in 0 ms
+2025-03-13 13:53:17 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 14952 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 13:53:17 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 13:53:17 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 13:53:17 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 13:53:17 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 13:53:18 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 13:53:18 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 13:53:18 [restartedMain] - Starting service [Tomcat]
+2025-03-13 13:53:18 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 13:53:18 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 13:53:18 [restartedMain] - Root WebApplicationContext: initialization completed in 1744 ms
+2025-03-13 13:53:19 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 13:53:19 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 13:53:19 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 13:53:19 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 13:53:19 [restartedMain] - Started ConwayguiApplication in 3.018 seconds (process running for 3.837)
+2025-03-13 13:53:20 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 13:53:20 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 13:53:20 [http-nio-7110-exec-1] - Completed initialization in 1 ms
+2025-03-13 13:59:51 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 7276 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 13:59:51 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 13:59:51 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 13:59:51 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 13:59:51 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 13:59:53 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 13:59:53 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 13:59:53 [restartedMain] - Starting service [Tomcat]
+2025-03-13 13:59:53 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 13:59:53 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 13:59:53 [restartedMain] - Root WebApplicationContext: initialization completed in 1690 ms
+2025-03-13 13:59:53 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 13:59:54 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 13:59:54 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 13:59:54 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 13:59:54 [restartedMain] - Started ConwayguiApplication in 3.17 seconds (process running for 3.972)
+2025-03-13 14:00:13 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 14:00:13 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 14:00:13 [http-nio-7110-exec-1] - Completed initialization in 3 ms
+2025-03-13 14:01:42 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 9528 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 14:01:42 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 14:01:42 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 14:01:42 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 14:01:42 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 14:01:44 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 14:01:44 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:01:44 [restartedMain] - Starting service [Tomcat]
+2025-03-13 14:01:44 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 14:01:44 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 14:01:44 [restartedMain] - Root WebApplicationContext: initialization completed in 1635 ms
+2025-03-13 14:01:44 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 14:01:44 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 14:01:44 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:01:44 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 14:01:44 [restartedMain] - Started ConwayguiApplication in 2.556 seconds (process running for 3.339)
+2025-03-13 14:01:59 [http-nio-7110-exec-2] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 14:01:59 [http-nio-7110-exec-2] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 14:01:59 [http-nio-7110-exec-2] - Completed initialization in 3 ms
+2025-03-13 14:05:41 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 16128 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 14:05:41 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 14:05:41 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 14:05:41 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 14:05:41 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 14:05:42 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 14:05:42 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:05:43 [restartedMain] - Starting service [Tomcat]
+2025-03-13 14:05:43 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 14:05:43 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 14:05:43 [restartedMain] - Root WebApplicationContext: initialization completed in 1589 ms
+2025-03-13 14:05:43 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 14:05:43 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 14:05:43 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:05:43 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 14:05:43 [restartedMain] - Started ConwayguiApplication in 2.862 seconds (process running for 3.675)
+2025-03-13 14:05:48 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 14:05:48 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 14:05:48 [http-nio-7110-exec-1] - Completed initialization in 1 ms
+2025-03-13 14:09:58 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 18416 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 14:09:58 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 14:09:59 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 14:09:59 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 14:09:59 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 14:10:00 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 14:10:00 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:10:00 [restartedMain] - Starting service [Tomcat]
+2025-03-13 14:10:00 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 14:10:00 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 14:10:00 [restartedMain] - Root WebApplicationContext: initialization completed in 1360 ms
+2025-03-13 14:10:00 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 14:10:01 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 14:10:01 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:10:01 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 14:10:01 [restartedMain] - Started ConwayguiApplication in 2.726 seconds (process running for 3.4)
+2025-03-13 14:10:15 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 14:10:15 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 14:10:15 [http-nio-7110-exec-1] - Completed initialization in 1 ms
+2025-03-13 14:25:45 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 10312 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 14:25:45 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 14:25:45 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 14:25:45 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 14:25:45 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 14:25:46 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 14:25:46 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:25:46 [restartedMain] - Starting service [Tomcat]
+2025-03-13 14:25:46 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 14:25:46 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 14:25:46 [restartedMain] - Root WebApplicationContext: initialization completed in 1662 ms
+2025-03-13 14:25:47 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 14:25:47 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 14:25:47 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:25:47 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 14:25:47 [restartedMain] - Started ConwayguiApplication in 3.025 seconds (process running for 3.843)
+2025-03-13 14:25:58 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 14:25:58 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 14:25:58 [http-nio-7110-exec-1] - Completed initialization in 2 ms
+2025-03-13 14:28:14 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 17464 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 14:28:14 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 14:28:14 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 14:28:14 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 14:28:14 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 14:28:16 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 14:28:16 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:28:16 [restartedMain] - Starting service [Tomcat]
+2025-03-13 14:28:16 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 14:28:16 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 14:28:16 [restartedMain] - Root WebApplicationContext: initialization completed in 1735 ms
+2025-03-13 14:28:16 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 14:28:17 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 14:28:17 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:28:17 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 14:28:17 [restartedMain] - Started ConwayguiApplication in 3.322 seconds (process running for 4.265)
+2025-03-13 14:28:22 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 14:28:22 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 14:28:22 [http-nio-7110-exec-1] - Completed initialization in 2 ms
+2025-03-13 14:34:01 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 18188 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 14:34:01 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 14:34:01 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 14:34:01 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 14:34:01 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 14:34:02 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 14:34:02 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:34:02 [restartedMain] - Starting service [Tomcat]
+2025-03-13 14:34:02 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 14:34:02 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 14:34:02 [restartedMain] - Root WebApplicationContext: initialization completed in 1650 ms
+2025-03-13 14:34:02 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 14:34:03 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 14:34:03 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:34:03 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 14:34:03 [restartedMain] - Started ConwayguiApplication in 2.894 seconds (process running for 3.782)
+2025-03-13 14:34:03 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 14:34:03 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 14:34:03 [http-nio-7110-exec-1] - Completed initialization in 4 ms
+2025-03-13 14:36:59 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 18232 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 14:36:59 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 14:36:59 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 14:36:59 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 14:36:59 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 14:37:01 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 14:37:01 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:37:01 [restartedMain] - Starting service [Tomcat]
+2025-03-13 14:37:01 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 14:37:01 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 14:37:01 [restartedMain] - Root WebApplicationContext: initialization completed in 1984 ms
+2025-03-13 14:37:01 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 14:37:02 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 14:37:02 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:37:02 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 14:37:02 [restartedMain] - Started ConwayguiApplication in 3.107 seconds (process running for 4.101)
+2025-03-13 14:37:03 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 14:37:03 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 14:37:03 [http-nio-7110-exec-1] - Completed initialization in 1 ms
+2025-03-13 14:38:47 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 7108 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 14:38:47 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 14:38:47 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 14:38:47 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 14:38:47 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 14:38:48 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 14:38:48 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:38:48 [restartedMain] - Starting service [Tomcat]
+2025-03-13 14:38:48 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 14:38:48 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 14:38:48 [restartedMain] - Root WebApplicationContext: initialization completed in 1515 ms
+2025-03-13 14:38:48 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 14:38:49 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 14:38:49 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:38:49 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 14:38:49 [restartedMain] - Started ConwayguiApplication in 3.005 seconds (process running for 3.937)
+2025-03-13 14:38:59 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 14:38:59 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 14:38:59 [http-nio-7110-exec-1] - Completed initialization in 2 ms
+2025-03-13 14:40:04 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 15468 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 14:40:04 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 14:40:04 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 14:40:04 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 14:40:04 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 14:40:05 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 14:40:05 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:40:05 [restartedMain] - Starting service [Tomcat]
+2025-03-13 14:40:05 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 14:40:05 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 14:40:05 [restartedMain] - Root WebApplicationContext: initialization completed in 1447 ms
+2025-03-13 14:40:06 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 14:40:06 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 14:40:06 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:40:06 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 14:40:06 [restartedMain] - Started ConwayguiApplication in 2.68 seconds (process running for 3.488)
+2025-03-13 14:40:06 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 14:40:06 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 14:40:06 [http-nio-7110-exec-1] - Completed initialization in 2 ms
+2025-03-13 14:46:49 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 17072 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 14:46:49 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 14:46:49 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 14:46:49 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 14:46:49 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 14:46:50 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 14:46:50 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:46:50 [restartedMain] - Starting service [Tomcat]
+2025-03-13 14:46:50 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 14:46:50 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 14:46:50 [restartedMain] - Root WebApplicationContext: initialization completed in 1465 ms
+2025-03-13 14:46:50 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 14:46:51 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 14:46:51 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:46:51 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 14:46:51 [restartedMain] - Started ConwayguiApplication in 2.603 seconds (process running for 3.573)
+2025-03-13 14:47:08 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 14:47:08 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 14:47:08 [http-nio-7110-exec-1] - Completed initialization in 2 ms
+2025-03-13 14:49:00 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 18340 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 14:49:00 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 14:49:00 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 14:49:00 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 14:49:00 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 14:49:01 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 14:49:01 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:49:01 [restartedMain] - Starting service [Tomcat]
+2025-03-13 14:49:01 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 14:49:01 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 14:49:01 [restartedMain] - Root WebApplicationContext: initialization completed in 1933 ms
+2025-03-13 14:49:02 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 14:49:02 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 14:49:02 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:49:02 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 14:49:02 [restartedMain] - Started ConwayguiApplication in 3.516 seconds (process running for 4.321)
+2025-03-13 14:49:03 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 14:49:03 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 14:49:03 [http-nio-7110-exec-1] - Completed initialization in 3 ms
+2025-03-13 14:52:21 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 10500 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 14:52:21 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 14:52:21 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 14:52:21 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 14:52:21 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 14:52:22 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 14:52:22 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:52:22 [restartedMain] - Starting service [Tomcat]
+2025-03-13 14:52:22 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 14:52:22 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 14:52:22 [restartedMain] - Root WebApplicationContext: initialization completed in 1508 ms
+2025-03-13 14:52:23 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 14:52:23 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 14:52:23 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:52:23 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 14:52:23 [restartedMain] - Started ConwayguiApplication in 2.637 seconds (process running for 3.269)
+2025-03-13 14:52:23 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 14:52:23 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 14:52:23 [http-nio-7110-exec-1] - Completed initialization in 1 ms
+2025-03-13 14:56:18 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 17500 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 14:56:18 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 14:56:18 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 14:56:18 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 14:56:18 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 14:56:19 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 14:56:19 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:56:19 [restartedMain] - Starting service [Tomcat]
+2025-03-13 14:56:19 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 14:56:19 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 14:56:19 [restartedMain] - Root WebApplicationContext: initialization completed in 1629 ms
+2025-03-13 14:56:20 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 14:56:20 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 14:56:20 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:56:20 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 14:56:20 [restartedMain] - Started ConwayguiApplication in 2.762 seconds (process running for 3.746)
+2025-03-13 14:56:27 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 14:56:27 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 14:56:27 [http-nio-7110-exec-1] - Completed initialization in 6 ms
+2025-03-13 14:59:34 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 15148 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 14:59:34 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 14:59:34 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 14:59:34 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 14:59:34 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 14:59:35 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 14:59:36 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:59:36 [restartedMain] - Starting service [Tomcat]
+2025-03-13 14:59:36 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 14:59:36 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 14:59:36 [restartedMain] - Root WebApplicationContext: initialization completed in 1722 ms
+2025-03-13 14:59:36 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 14:59:36 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 14:59:36 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 14:59:36 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 14:59:36 [restartedMain] - Started ConwayguiApplication in 2.766 seconds (process running for 3.54)
+2025-03-13 14:59:37 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 14:59:37 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 14:59:37 [http-nio-7110-exec-1] - Completed initialization in 1 ms
+2025-03-13 15:00:28 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 15896 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 15:00:28 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 15:00:28 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 15:00:28 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 15:00:28 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 15:00:29 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 15:00:29 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 15:00:29 [restartedMain] - Starting service [Tomcat]
+2025-03-13 15:00:29 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 15:00:30 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 15:00:30 [restartedMain] - Root WebApplicationContext: initialization completed in 1447 ms
+2025-03-13 15:00:30 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 15:00:30 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 15:00:30 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 15:00:30 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 15:00:30 [restartedMain] - Started ConwayguiApplication in 2.741 seconds (process running for 3.679)
+2025-03-13 15:00:31 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 15:00:31 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 15:00:31 [http-nio-7110-exec-1] - Completed initialization in 1 ms
+2025-03-13 15:01:55 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 18648 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 15:01:55 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 15:01:55 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 15:01:55 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 15:01:55 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 15:01:56 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 15:01:56 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 15:01:56 [restartedMain] - Starting service [Tomcat]
+2025-03-13 15:01:56 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 15:01:56 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 15:01:56 [restartedMain] - Root WebApplicationContext: initialization completed in 1288 ms
+2025-03-13 15:01:56 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 15:01:56 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 15:01:56 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 15:01:56 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 15:01:56 [restartedMain] - Started ConwayguiApplication in 2.366 seconds (process running for 3.246)
+2025-03-13 15:02:00 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 15:02:00 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 15:02:00 [http-nio-7110-exec-1] - Completed initialization in 1 ms
+2025-03-13 15:03:25 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 12012 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 15:03:25 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 15:03:25 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 15:03:25 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 15:03:25 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 15:03:27 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 15:03:27 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 15:03:27 [restartedMain] - Starting service [Tomcat]
+2025-03-13 15:03:27 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 15:03:27 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 15:03:27 [restartedMain] - Root WebApplicationContext: initialization completed in 1631 ms
+2025-03-13 15:03:27 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 15:03:28 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 15:03:28 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 15:03:28 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 15:03:28 [restartedMain] - Started ConwayguiApplication in 3.152 seconds (process running for 4.217)
+2025-03-13 15:03:28 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 15:03:28 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 15:03:28 [http-nio-7110-exec-1] - Completed initialization in 0 ms
+2025-03-13 15:05:04 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 11880 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 15:05:04 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 15:05:04 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 15:05:04 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 15:05:04 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 15:05:06 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 15:05:06 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 15:05:06 [restartedMain] - Starting service [Tomcat]
+2025-03-13 15:05:06 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 15:05:06 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 15:05:06 [restartedMain] - Root WebApplicationContext: initialization completed in 1619 ms
+2025-03-13 15:05:06 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 15:05:07 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 15:05:07 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 15:05:07 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 15:05:07 [restartedMain] - Started ConwayguiApplication in 2.915 seconds (process running for 3.848)
+2025-03-13 15:05:36 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 15:05:36 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 15:05:36 [http-nio-7110-exec-1] - Completed initialization in 1 ms
+2025-03-13 15:07:39 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 17312 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 15:07:39 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 15:07:39 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 15:07:39 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 15:07:39 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 15:07:41 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 15:07:41 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 15:07:41 [restartedMain] - Starting service [Tomcat]
+2025-03-13 15:07:41 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 15:07:41 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 15:07:41 [restartedMain] - Root WebApplicationContext: initialization completed in 1590 ms
+2025-03-13 15:07:41 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 15:07:42 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 15:07:42 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 15:07:42 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 15:07:42 [restartedMain] - Started ConwayguiApplication in 3.013 seconds (process running for 3.92)
+2025-03-13 15:07:42 [http-nio-7110-exec-2] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 15:07:42 [http-nio-7110-exec-2] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 15:07:42 [http-nio-7110-exec-2] - Completed initialization in 2 ms
+2025-03-13 15:09:19 [restartedMain] - Starting ConwayguiApplication using Java 17.0.2 with PID 18080 (C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui\build\classes\java\main started by lores in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\conwaygui)
+2025-03-13 15:09:19 [restartedMain] - No active profile set, falling back to 1 default profile: "default"
+2025-03-13 15:09:19 [restartedMain] - The Class-Path manifest attribute in C:\Users\lores\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\unibo\IngDelSw_M\cosaNostra\unibolibs\2p301.jar referenced one or more files that do not exist: file:/C:/Users/lores/OneDrive%20-%20Alma%20Mater%20Studiorum%20Università%20di%20Bologna/Documents/unibo/IngDelSw_M/cosaNostra/unibolibs/
+2025-03-13 15:09:19 [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-13 15:09:19 [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-13 15:09:21 [restartedMain] - Tomcat initialized with port 7110 (http)
+2025-03-13 15:09:21 [restartedMain] - Initializing ProtocolHandler ["http-nio-7110"]
+2025-03-13 15:09:21 [restartedMain] - Starting service [Tomcat]
+2025-03-13 15:09:21 [restartedMain] - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-13 15:09:21 [restartedMain] - Initializing Spring embedded WebApplicationContext
+2025-03-13 15:09:21 [restartedMain] - Root WebApplicationContext: initialization completed in 1829 ms
+2025-03-13 15:09:21 [restartedMain] - Adding welcome page: class path resource [static/index.html]
+2025-03-13 15:09:22 [restartedMain] - LiveReload server is running on port 35729
+2025-03-13 15:09:22 [restartedMain] - Starting ProtocolHandler ["http-nio-7110"]
+2025-03-13 15:09:22 [restartedMain] - Tomcat started on port 7110 (http) with context path '/'
+2025-03-13 15:09:22 [restartedMain] - Started ConwayguiApplication in 3.426 seconds (process running for 4.233)
+2025-03-13 15:09:22 [http-nio-7110-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-13 15:09:22 [http-nio-7110-exec-1] - Initializing Servlet 'dispatcherServlet'
+2025-03-13 15:09:22 [http-nio-7110-exec-1] - Completed initialization in 2 ms

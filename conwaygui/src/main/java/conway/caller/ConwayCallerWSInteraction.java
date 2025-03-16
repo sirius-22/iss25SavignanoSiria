@@ -19,12 +19,25 @@ public class ConwayCallerWSInteraction implements IObserver{
     public ConwayCallerWSInteraction() {
         try {     	
         	conn = ConnectionFactory.createClientSupport(ProtocolType.ws, "localhost:7110", "wsupdates");
-	        CommUtils.outyellow("ConwayCallerWSInteraction on 7110" );
-	        
+	        CommUtils.outyellow("ConwayCallerWSInteraction on 7110" );        
 	        ((WsConnection) conn).addObserver(this);
         } catch (Exception e) {
         	CommUtils.outred("ConwayCallerWsInteraction | ERROR:" +e.getMessage());
         }    	   	
+    }
+    
+    protected void myjob() {
+    	new Thread() {
+    		public void run() {
+
+    			
+    			for (int i=0; i<5;i++) {
+
+    			CommUtils.outmagenta("I'm working" +i);
+    			CommUtils.delay(500);
+    			}
+    		}
+    	}.start();
     }
 
      

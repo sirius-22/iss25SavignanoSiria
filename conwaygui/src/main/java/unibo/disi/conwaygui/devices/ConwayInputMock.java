@@ -1,7 +1,7 @@
 package unibo.disi.conwaygui.devices;
 
-import unibo.disi.conwaygui.Life;
-import unibo.disi.conwaygui.LifeController;
+import conway.Life;
+import conway.LifeController;
 
 public class ConwayInputMock {
 	protected Life life;
@@ -17,7 +17,7 @@ public class ConwayInputMock {
         life.switchCellState( 1, 0 );
 		life.switchCellState( 1, 1 );
 		life.switchCellState( 1, 2 );			   	
-		control.start();
+		control.startTheGame();
     }
 
 }

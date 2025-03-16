@@ -1,21 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+:root {
+    --thistle: #cdb4dbff;
+    --fairy-tale: #ffc8ddff;
+    --carnation-pink: #ffafccff;
+    --uranian-blue: #bde0feff;
+    --light-sky-blue: #a2d2ffff;
+	--blue-navy: #000080;
+}
+
 body {
     padding: 20px;
-    background-color: #e6ffe6;
+	font-family: 'Patrick Hand', cursive;
+	text-align: center;
+	background-color: var(--uranian-blue);
+	color: var(--blue-navy);
+	font-size: 20px; 
 }
         .grid {
             display: grid;
-            grid-template-columns: repeat(20, 15px);
-            grid-gap: 1px;
-            justify-content: left;
+            grid-template-columns: repeat(20, 20px);
+			grid-gap: 1px;
+            justify-content: center;
             margin-top: 20px;
+			padding: 5px;
         }
         .cell {
-            width: 15px;
-            height: 15px;
+            width: 20px;
+            height: 20px;
             text-align: center;
-            line-height: 15px;
-            font-weight: bold;
+            line-height: 20px;
             color: white;
         }
-        .live { background-color: #28a745; }
-        .dead { background-color: #dc3545; }
+        .dead { background-color: var(--carnation-pink); }
+        .live { background-color: var(--thistle); }
+		
+/* Stili generali per i bottoni */
+button.b {
+	font-family: 'Patrick Hand', cursive;
+    background-color: #ffafccff; /* Colore di sfondo */
+    border: none;              /* Rimuovi il bordo */
+    color: white;              /* Colore del testo */
+    padding: 15px 32px;        /* Spaziatura interna */
+    text-align: center;        /* Allineamento del testo */
+    text-decoration: none;     /* Rimuovi la sottolineatura */
+    display: inline-block;     /* Posizionamento in linea */
+    font-size: 16px;           /* Dimensione del testo */
+    border-radius: 50px;       /* Rende il bottone tondo */
+    cursor: pointer;          /* Mostra il cursore a forma di mano */
+    transition: background-color 0.3s, transform 0.3s; /* Transizione fluida */
+	margin: 10px;
+}
+
+/* Effetto al passaggio del mouse */
+button.b:hover {
+    background-color: #ffc8ddff; /* Cambia il colore di sfondo */
+    transform: scale(1.1);      /* Rende il bottone un po' più grande */
+}
+
+/* Effetto quando il bottone è premuto */
+button.b:active {
+    background-color: var(--thistle); /* Colore più scuro quando premuto */
+    transform: scale(0.98);     /* Riduce leggermente il bottone */
+}
+
+		

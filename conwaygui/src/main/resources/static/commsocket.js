@@ -25,6 +25,7 @@ function discoverServiceUrl(){
 
 function createSocketForGui(serviceUrl){
     //CREAZIONE DELLA CONNESSIONE WEBSOCKET DELLA GUI
+		console.log(serviceUrl)
 	    wsAddr = "ws://localhost:7110/wsupdates".replace("localhost",serviceUrl)
 		console.log("wsAddr="+wsAddr)
    		socketToGui = new WebSocket(wsAddr);  

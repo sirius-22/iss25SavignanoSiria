@@ -14,6 +14,8 @@ public class Life {
     private Grid grid;
     private Grid nextGrid;
     
+    private boolean gridStable = false;
+    
 
 
     public Life( int rowsNum, int colsNum ) {
@@ -28,6 +30,15 @@ public class Life {
     public int getColsNum(){
         return cols;
     }
+    
+    public Grid getGrid() {
+    	return grid;
+    }
+
+    
+    public Grid getNextGrid() {
+    	return nextGrid;
+    }
 
     protected void  createGrids() {
         grid     = new Grid(rows, cols);
@@ -35,10 +46,19 @@ public class Life {
         //CommUtils.outyellow("Life | initializeGrids done");
     }
 
-    protected void resetGrids() {
+    public void resetGrids() {
         grid.reset();
         nextGrid.reset();
         //CommUtils.outyellow("Life | initGrids done");
+    }
+    
+    public boolean gridEmpty() {
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
+            	if( grid.getCell(i, j).getState() ) return false;
+            }
+        }
+        return true;
     }
 
     //conta i vicini vivi di una cella
@@ -66,6 +86,7 @@ public class Life {
     }
 
     protected void computeNextGen() {
+    	gridStable = false;
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
                 int n = countNeighborsLive(i,j);
@@ -76,6 +97,7 @@ public class Life {
     }
 
     protected void copyAndResetGrid() {
+    	gridStable = grid.equals(nextGrid);
         grid.copy(nextGrid);
         nextGrid.reset();
     }
@@ -107,6 +129,10 @@ public class Life {
 
     public  boolean isCellAlive( int i, int j  ) {
         return   grid.isCellAlive(i, j);
+    }
+    
+    public boolean gridStable() {
+      	return gridStable;
     }
  
 

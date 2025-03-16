@@ -10,9 +10,9 @@ public class MainConway  {
     	//configureTheSystem
         Life life           = new Life( 3,3 );
         LifeController cc   = new LifeController(life);   
-        ConwayInputMock cim = new ConwayInputMock(cc,life);
+        //ConwayInputMock cim = new ConwayInputMock(cc,life);
         //start the system
-        cim.simulateUserControl();
+        //cim.simulateUserControl();
         
     }
 

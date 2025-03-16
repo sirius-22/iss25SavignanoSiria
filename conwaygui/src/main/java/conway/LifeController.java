@@ -1,73 +1,152 @@
 package conway;
 import java.util.concurrent.TimeUnit;
+import conway.devices.WSIoDev;
+import unibo.basicomm23.utils.CommUtils;
 
-import unibo.disi.conwaygui.devices.ConwayOutput;
-
-
+/*
+ * LifeController di conwaygui. 
+ * Definisce funzioni di controllo del gioco:
+ * 
+ * - play
+ * - displayGrid
+ * - resetAndDisplayGrids
+ * - swithCellState
+ * - startTheGame
+ * - stopTheGame
+ * - clearTheGame
+ * - exitTheGame
+ * 
+ * Queste funzioni sono invocate da WSioDev
+ */
 
 public class LifeController {
-    private int generationTime = 1000;
+    private int generationTime = 500;
     private  Life life;
-    private IOutDev outdev;
-	private boolean stop;
+    public   IOutDev outdev; 
 
+    //Aggiunte
+ 	protected boolean running = false;
+    protected int epoch = 0;
+
+    
     public LifeController(Life game){  
         this.life = game;
-		this.stop = false;
-        configureTheSystem();
+        outdev    = WSIoDev.getInstance(); 
+        CommUtils.outyellow("LifeController CREATED ... "  + outdev);
      }
-
-    protected void configureTheSystem() {
-		//CommUtils.outyellow("LifeController | doJob ");
-		life.createGrids();
-        outdev = new ConwayOutput(   );		
-    }
+ 
+/*
+ * Funzioni di controllo del gioco
+ */
     
-    //Called by ConwayInputMock
-    public void start(){
-		System.out.println("---------Initial----------");
-		//La griglia è visualizzata con un ciclo
-		displayGrid();
-		play(); 		   	
-    }
-    
-    protected void play() {
-		int i = 1;
-		this.stop = false;
-		while (!stop) {
-		//for( int i=1;i<=5;i++){
-			try {
-				TimeUnit.MILLISECONDS.sleep(generationTime);
-				System.out.println("---------Epoch --- "+ i );
-				life.computeNextGen( );
-				//La griglia è visualizzata  'on the fly'
-				displayGrid();
-				i++;
-			} catch (InterruptedException e) {
-				e.printStackTrace();
-			}
-		}    	
-    }
-
-	public void stop(){
-		this.stop = true;
+	public void swithCellState(int x, int y) {
+		Cell c = life.getGrid().getCell(x, y); 
+		c.toggle( );   
+		//CommUtils.outblue("LifeControllers withCellState "  + outdev);
+		outdev.displayCell(c);
+	}
+	
+	public void startTheGame() {
+		if( running ) return;   //start sent while running
+		running = true;
+		play();		
+	}
+	
+	public void stopTheGame() {
+		running = false;
 	}
 
-	public void clear(){
+	public void clearTheGame() {
+ 		stopTheGame();
+ 		CommUtils.delay(500);   //prima fermo e poi ...
+		epoch = 0;
+		resetAndDisplayGrids(  );   
+		outdev.display("clear");   // ... pulisco la GUI
+		//resetAndDisplayGridsOptimized(  );  
+	}
+	
+	public void exitTheGame() {
+		System.exit(0);
+	}
+	
+    protected void play() {  
+			new Thread() {
+			public void run() {			
+				outdev.display("game started"); 
+				while( running ) {
+					try {
+						TimeUnit.MILLISECONDS.sleep(generationTime);
+						life.computeNextGen();
+						
+						//Come si riduce il traffico di rete?
+						//Troppi messaggi con questo metodo?   						
+						displayGrid(   );
+
+						CommUtils.outblue("---------Epoch ---- "+epoch++ );
+						boolean gridEmpty  = life.gridEmpty();
+						boolean gridStable = life.gridStable();
+						if( gridEmpty || gridStable ) {
+				    		running = false;
+				    		String reason = gridStable ? "stable" : "empty";
+				    		outdev.display("grid GAME ENDED after " + epoch + 
+				    				" Epochs since empty=" + gridEmpty + " stable="+ gridStable);
+				    		epoch = 0;
+				    	}
+					} catch (InterruptedException e) {
+						e.printStackTrace();
+					}
+				}//while
+				outdev.display("game stopped"); 
+			}
+			}.start();
+    }
+
+
+	public void displayGrid(   ) {
+		Grid grid     = life.getGrid();
+ 		int rows = grid.getRows();
+		int cols = grid.getCols();
+		for (int i = 0; i < rows; i++) {
+			for (int j = 0; j < cols; j++) {
+				Cell cell = grid.getCell(i,j);
+				outdev.displayCell(cell); 
+ 			}			
+		}
+	}
+	
+
+	public void resetAndDisplayGrids(   ) {
 		life.resetGrids();
 		displayGrid();
 	}
-	public void displayGrid() {
-		for (int i = 0; i < life.getRowsNum(); i++) {
-			for (int j = 0; j < life.getColsNum(); j++) {
-				if (!life.isCellAlive(i, j)) {
-					outdev.displayCell("0");
-                } else {
-                	outdev.displayCell("1");
-                }				 
-			}
-			outdev.displayCell("\n");
+	
+	
+    /*
+     * reset grid and nextGrid in life
+     * by updating the display  only to make a cell dead
+     * in order to avoid rows x cols x nclients messages
+     * 
+     * called by clearTheGame
+     */
+	public void resetAndDisplayGridsOptimized(   ) {		
+		Grid grid     = life.getGrid();
+		Grid nextGrid = life.getNextGrid();
+		int rows = grid.getRows();
+		int cols = grid.getCols();
+		CommUtils.outmagenta("LifeController resetAndDisplayGrids " + rows + " " + cols);
+		for (int i = 0; i < rows; i++) {
+			for (int j = 0; j < rows; j++) {
+				Cell cell = grid.getCell(i,j);
+				//OTTIMIZZAZIONE
+				if( cell.isAlive()) {
+					cell.setDead();
+					outdev.displayCell(cell);  
+				}
+				if( nextGrid.getCell(i, j).isAlive()) {
+					nextGrid.getCell(i, j).setDead();
+				}
+			}			
 		}
 	}
-
+	
 }
