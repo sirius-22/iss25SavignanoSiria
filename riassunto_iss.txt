@@ -1,0 +1,10 @@
+L'applicazione ConwayLife25 è un'applicazione Java che simula l'evoluzione di un insieme di celle in un ambiente bidimensionale. 
+Per prima cosa si è progettato il core business (software driven development), con output inizialmente stampato a console. 
+Il modello è stato progettato in maniera modulare per sfruttare il principio di singola responsabilità. Si sono a tal scopo introdotte le classi Grid e Cell e si è separata la parte di logica applicativa da quella di visualizzazione dell'output. In seguito è stata aggiunta la parte di testing.
+L'attenzione è stata successivamente dirottata sulla progettazione di una gui, un dispositivo avanzato di input-output, per l'applicazione, di modo da renderla appetibile per l'utente finale.
+Abbiamo utilizzato il framework spring boot per l'organizzazione dei package e per la Dependency Injection.
+La business logic può essere integrata all'interno dell'applicazione in 2 modi diversi:innestandola direttamente all'interno del progetto Conwaygui o, in maniera impicita, creando un progetto a parte e integrandolo come dipendenza (jar).
+In questa fase iniziale si è optato per la prima soluzione, in quanto l'applicazione può ancora variare.
+Si è deciso di adottare il modello Model-View-Controller, dove il model è il core business dell'applicazione, la view è la pagina html e il controller è il controller di Spring, il quale richiama il controller dell'applicazione.
+La comunicazione, full duplex e asincrona, tra frontend e backend è gestita tramite websocket. Questo approccio ha reso possibile la machine to machine interaction, ovvero un programma, chiamato caller, che invii i comandi da dare a ConwayLife25 tramite websocket.
+
