@@ -10,3 +10,4 @@ Repository per il corso Ingegneria dei Sistemi Software a.a. 2024/2025 - DISI - 
 * [conwayguialone](conwayguialone): Servizio SpringBoot che offre la GUI per intergasice via MQTT con conway25JavaMqtt
 
 ### Fase 2 : DAGLI OGGETTI AGLI ATTORI
+* [Relazione Fase 2](Fase2ISS25-SavignanoSiria.pdf)
